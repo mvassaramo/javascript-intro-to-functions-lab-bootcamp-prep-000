@@ -11,7 +11,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 var demo = ''
-function sayHiToGrandma(function) {
+function sayHiToGrandma() {
   demo = 'terter'
   
 }
